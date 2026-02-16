@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "955479935416",
+    "project_id": "diu-lost-found",
+    "storage_bucket": "diu-lost-found.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:955479935416:android:9586a434429b4d6a7da74d",
+        "android_client_info": {
+          "package_name": "com.example.diu_lost_found"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1wtsvtONrszaJsWZ5wXfrclLC4VZzocA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
